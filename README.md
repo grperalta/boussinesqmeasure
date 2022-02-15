@@ -15,4 +15,5 @@ measures as controls. The problem being considered is the following:
 
 If you find these codes useful, you can cite the manuscript as:
 > Peralta, G., Optimal Borel measure controls for the two-dimensional
-  stationary Boussinesq system, 2022.
+  stationary Boussinesq system, to appear in ESAIM: Control, Optimisation
+  and Calculus of Variations, 2022.
