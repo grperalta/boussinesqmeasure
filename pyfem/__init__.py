@@ -13,9 +13,6 @@ Governor Pack Road, Baguio, Philippines 2600
 Email: grperalta@up.edu.ph
 """
 
-from .test import testrun
-from .test import navier_stokes_taylor_hood
-from .test import navier_stokes_taylor_hood_dynamics
 from .mesh import square_uni_trimesh
 from .mesh import samples
 from .basis import p2basis
