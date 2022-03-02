@@ -14,6 +14,6 @@ measures as controls. The problem being considered is the following:
     over all controls q in M(Omega) x M(Omega) and y in M(Omega).
 
 If you find these codes useful, you can cite the manuscript as:
-> Peralta, G., Optimal Borel measure controls for the two-dimensional
-  stationary Boussinesq system, to appear in ESAIM: Control, Optimisation
+> Peralta, G., [Optimal Borel measure controls for the two-dimensional
+  stationary Boussinesq system](https://doi.org/10.1051/cocv/2022016), to appear in ESAIM: Control, Optimisation
   and Calculus of Variations, 2022.
